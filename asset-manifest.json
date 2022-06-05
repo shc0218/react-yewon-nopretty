@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/react-yewon-nopretty/static/css/main.e7720ab7.css",
-    "main.js": "/react-yewon-nopretty/static/js/main.dc22f0f1.js",
+    "main.js": "/react-yewon-nopretty/static/js/main.a78bf3ee.js",
+    "service-worker.js": "/react-yewon-nopretty/service-worker.js",
     "index.html": "/react-yewon-nopretty/index.html",
     "main.e7720ab7.css.map": "/react-yewon-nopretty/static/css/main.e7720ab7.css.map",
-    "main.dc22f0f1.js.map": "/react-yewon-nopretty/static/js/main.dc22f0f1.js.map"
+    "main.a78bf3ee.js.map": "/react-yewon-nopretty/static/js/main.a78bf3ee.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.dc22f0f1.js"
+    "static/js/main.a78bf3ee.js"
   ]
 }
